@@ -1,0 +1,1 @@
+//basic array decleration n stuff
